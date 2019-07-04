@@ -22,3 +22,4 @@ For an introduction to Guice and a comparison to new and the factory pattern, se
 We've been running Guice in mission critical applications since 2006, and now you can, too. We hope you enjoy it as much as we do.
 
 [![jolt award](http://crazybob.org/jolt.png)](http://joltawards.com)
+
